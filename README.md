@@ -1,4 +1,4 @@
-  <h1> <center> Hi </center> <h1> 
+  <h1> <center> Wux profile </center> <h1> 
   
 <div> «I am Wux, a student in Systems Engineering ⚙️</div>
 
