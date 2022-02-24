@@ -9,6 +9,7 @@
 
 <div> <h4> « Social </h4> </div>
 
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/wuxsen78/) <p> 👈 Dale click </p>
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Wuxsen78) <p> 👈 Dale click </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/wuxsen78/) 👈 Dale click
+  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Wuxsen78) 👈 Dale click
  
