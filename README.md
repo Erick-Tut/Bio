@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+«I am Wux, a student in Systems Engineering ⚙️
+«I like to learn new things and create tests ⚙️
+«I use Python, JavaScript, Html, Css, C+ and Php ⚙️
