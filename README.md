@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi!
 
 <!--
 **Wuxsen78/Wuxsen78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-«I am Wux, a student in Systems Engineering ⚙️
+«I am Wux, a student in Systems Engineering ⚙️ 
 «I like to learn new things and create tests ⚙️
 «I use Python, JavaScript, Html, Css, C+ and Php ⚙️
