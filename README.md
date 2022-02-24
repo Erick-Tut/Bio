@@ -13,3 +13,8 @@
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Wuxsen78) 👈 Dale click
  
+<div> <h4> Status </h4> </div>  
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wuxsen78&show_icons=true)  
+ 
