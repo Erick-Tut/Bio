@@ -1,4 +1,4 @@
-### <div><h1>About me </h1></div>
+### <div><h1>About me 🌥 </h1></div>
   «I am Wux, a student in Systems Engineering ⚙️<br> 
 «I like to learn new things and create tests ⚙️<br>
 «I use Python, JavaScript, Html, Css, C+ and Php ⚙️
