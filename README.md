@@ -1,7 +1,7 @@
-### <div><h1>About me 🌥 </h1></div>
-  «I am Wux, a student in Systems Engineering ⚙️<br> 
-«I like to learn new things and create tests ⚙️<br>
-«I use Python, JavaScript, Html, Css, C+ and Php ⚙️
+### <div><h1>Sobre mi🌥 </h1></div>
+  «Estudiante en Computación ⚙️<br> 
+«Me gusta aprender cosas nuevas y crear pruebas. ⚙️<br>
+«Uso Python, JavaScript, Html, Css, C+ ⚙️
 
 
 
