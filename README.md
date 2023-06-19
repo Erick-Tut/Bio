@@ -1,4 +1,3 @@
-#console.log('S')
 ### <div><h1>Sobre mi🌥 </h1></div>
 «Estudiante en Computación ⚙️<br> 
 «Me gusta aprender cosas nuevas y crear pruebas. ⚙️<br>
